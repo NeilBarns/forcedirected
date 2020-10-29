@@ -1,102 +1,102 @@
 {
   "nodes": [
     {
-      "id": "GK1",
+      "id": "GKOne",
       "group": 1
     },
     {
-      "id": "GK11",
+      "id": "GKEleven",
       "group": 2
 
     },
     {
-      "id": "GK12",
+      "id": "GKTwelve",
       "group": 3
     },
     {
-      "id": "GK31",
+      "id": "GKThrityone",
       "group": 4
     },
     {
-      "id": "GK32",
+      "id": "GKThirtytwo",
       "group": 5
     },
     {
-      "id": "GK33",
+      "id": "GKThirtythree",
       "group": 6
     },
     {
-      "id": "GK10",
+      "id": "GKTen",
       "group": 7
     },
     {
-      "id": "GK20",
+      "id": "GKTwenty",
       "group": 8
     },
     {
-      "id": "GK21",
+      "id": "GKTwentyone",
       "group": 9
     },
     {
-      "id": "GK22",
+      "id": "GKTwentytwo",
       "group": 10
     },
     {
-      "id": "GK23",
+      "id": "GKTwentythree",
       "group": 11
     },
     {
-      "id": "GK42",
+      "id": "GKFourtytwo",
       "group": 12
     }
   ],
   "links": [
     {
-      "source": "GK1",
-      "target": "GK10"
+      "source": "GKOne",
+      "target": "GKTen"
     },
     {
-      "source": "GK1",
-      "target": "GK11"
+      "source": "GKOne",
+      "target": "GKEleven"
     },
     {
-      "source": "GK1",
-      "target": "GK12"
+      "source": "GKOne",
+      "target": "GKTwelve"
     },
     {
-      "source": "GK1",
-      "target": "GK20"
+      "source": "GKOne",
+      "target": "GKTwenty"
     },
     {
-      "source": "GK11",
-      "target": "GK21"
+      "source": "GKEleven",
+      "target": "GKTwentyone"
     },
     {
-      "source": "GK11",
-      "target": "GK22"
+      "source": "GKEleven",
+      "target": "GKTwentytwo"
     },
     {
-      "source": "GK11",
-      "target": "GK23"
+      "source": "GKEleven",
+      "target": "GKTwentythree"
     },
     {
-      "source": "GK31",
-      "target": "GK1"
+      "source": "GKThrityone",
+      "target": "GKOne"
     },
     {
-      "source": "GK32",
-      "target": "GK1"
+      "source": "GKThirtytwo",
+      "target": "GKOne"
     },
     {
-      "source": "GK33",
-      "target": "GK1"
+      "source": "GKThirtythree",
+      "target": "GKOne"
     },
     {
-      "source": "GK12",
-      "target": "GK42"
+      "source": "GKTwelve",
+      "target": "GKFourtytwo"
     },
     {
-      "source": "GK12",
+      "source": "GKTwelve",
       "target": "GK43"
     }
   ]
