@@ -1,0 +1,102 @@
+{
+  "nodes": [
+    {
+      "name": "GK1"
+    },
+    {
+      "name": "GK11"
+    },
+    {
+      "name": "GK12"
+    },
+    {
+      "name": "GK31"
+    },
+    {
+      "name": "GK32"
+    },
+    {
+      "name": "GK33"
+    },
+    {
+      "name": "GK10"
+    },
+    {
+      "name": "GK20"
+    },
+    {
+      "name": "GK21"
+    },
+    {
+      "name": "GK22"
+    },
+    {
+      "name": "GK23"
+    },
+    {
+      "name": "GK42"
+    }
+  ],
+  "links": [
+    {
+      "source": "GK1",
+      "target": "GK10",
+      "relations": "an office of"
+    },
+    {
+      "source": "GK1",
+      "target": "GK11",
+      "relations": "franchised to"
+    },
+    {
+      "source": "GK1",
+      "target": "GK12",
+      "relations": "subcontractor of"
+    },
+    {
+      "source": "GK1",
+      "target": "GK20",
+      "relations": "subsidiary of"
+    },
+    {
+      "source": "GK11",
+      "target": "GK21",
+      "relations": "franchised to"
+    },
+    {
+      "source": "GK11",
+      "target": "GK22",
+      "relations": "subcontractor of"
+    },
+    {
+      "source": "GK11",
+      "target": "GK23",
+      "relations": "part of"
+    },
+    {
+      "source": "GK31",
+      "target": "GK1",
+      "relations": "franchised to"
+    },
+    {
+      "source": "GK32",
+      "target": "GK1",
+      "relations": "subcontractor of"
+    },
+    {
+      "source": "GK33",
+      "target": "GK1",
+      "relations": "part of"
+    },
+    {
+      "source": "GK12",
+      "target": "GK42",
+      "relations": "subcontractor of"
+    },
+    {
+      "source": "GK12",
+      "target": "GK43",
+      "relations": "part of"
+    }
+  ]
+}
