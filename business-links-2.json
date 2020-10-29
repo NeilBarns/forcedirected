@@ -57,51 +57,63 @@
   "links": [
     {
       "source": "GKOne",
-      "target": "GKTen"
+      "target": "GKTen",
+      "relations": "an office of"
     },
     {
       "source": "GKOne",
-      "target": "GKEleven"
+      "target": "GKEleven",
+      "relations": "franchised to"
     },
     {
       "source": "GKOne",
-      "target": "GKTwelve"
+      "target": "GKTwelve",
+      "relations": "subcontractor of"
     },
     {
       "source": "GKOne",
-      "target": "GKTwenty"
+      "target": "GKTwenty",
+      "relations": "subsidiary of"
     },
     {
       "source": "GKEleven",
-      "target": "GKTwentyone"
+      "target": "GKTwentyone",
+      "relations": "franchised to"
     },
     {
       "source": "GKEleven",
-      "target": "GKTwentytwo"
+      "target": "GKTwentytwo",
+      "relations": "subcontractor of"
     },
     {
       "source": "GKEleven",
-      "target": "GKTwentythree"
+      "target": "GKTwentythree",
+      "relations": "part of"
     },
     {
       "source": "GKThrityone",
-      "target": "GKOne"
+      "target": "GKOne",
+      "relations": "franchised to"
     },
     {
       "source": "GKThirtytwo",
-      "target": "GKOne"
+      "target": "GKOne",
+      "relations": "subcontractor of"
     },
     {
       "source": "GKThirtythree",
-      "target": "GKOne"
+      "target": "GKOne",
+      "relations": "part of"
     },
     {
       "source": "GKTwelve",
-      "target": "GKFourtytwo"
+      "target": "GKFourtytwo",
+      "relations": "subcontractor of"
     },
     {
       "source": "GKTwelve",
-      "target": "GKFourtythree"
+      "target": "GKFourtythree",
+      "relations": "part of"
     }
   ]
 }
