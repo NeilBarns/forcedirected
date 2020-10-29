@@ -1,52 +1,52 @@
 {
   "nodes": [
     {
-      "name": "GK1",
+      "id": "GK1",
       "group": 1
     },
     {
-      "name": "GK11",
+      "id": "GK11",
       "group": 2
 
     },
     {
-      "name": "GK12",
+      "id": "GK12",
       "group": 3
     },
     {
-      "name": "GK31",
+      "id": "GK31",
       "group": 4
     },
     {
-      "name": "GK32",
+      "id": "GK32",
       "group": 5
     },
     {
-      "name": "GK33",
+      "id": "GK33",
       "group": 6
     },
     {
-      "name": "GK10",
+      "id": "GK10",
       "group": 7
     },
     {
-      "name": "GK20",
+      "id": "GK20",
       "group": 8
     },
     {
-      "name": "GK21",
+      "id": "GK21",
       "group": 9
     },
     {
-      "name": "GK22",
+      "id": "GK22",
       "group": 10
     },
     {
-      "name": "GK23",
+      "id": "GK23",
       "group": 11
     },
     {
-      "name": "GK42",
+      "id": "GK42",
       "group": 12
     }
   ],
