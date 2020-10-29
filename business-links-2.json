@@ -1,0 +1,103 @@
+{
+  "nodes": [
+    {
+      "name": "GK1",
+      "group": 1
+    },
+    {
+      "name": "GK11",
+      "group": 2
+
+    },
+    {
+      "name": "GK12",
+      "group": 3
+    },
+    {
+      "name": "GK31",
+      "group": 4
+    },
+    {
+      "name": "GK32",
+      "group": 5
+    },
+    {
+      "name": "GK33",
+      "group": 6
+    },
+    {
+      "name": "GK10",
+      "group": 7
+    },
+    {
+      "name": "GK20",
+      "group": 8
+    },
+    {
+      "name": "GK21",
+      "group": 9
+    },
+    {
+      "name": "GK22",
+      "group": 10
+    },
+    {
+      "name": "GK23",
+      "group": 11
+    },
+    {
+      "name": "GK42",
+      "group": 12
+    }
+  ],
+  "links": [
+    {
+      "source": "GK1",
+      "target": "GK10"
+    },
+    {
+      "source": "GK1",
+      "target": "GK11"
+    },
+    {
+      "source": "GK1",
+      "target": "GK12"
+    },
+    {
+      "source": "GK1",
+      "target": "GK20"
+    },
+    {
+      "source": "GK11",
+      "target": "GK21"
+    },
+    {
+      "source": "GK11",
+      "target": "GK22"
+    },
+    {
+      "source": "GK11",
+      "target": "GK23"
+    },
+    {
+      "source": "GK31",
+      "target": "GK1"
+    },
+    {
+      "source": "GK32",
+      "target": "GK1"
+    },
+    {
+      "source": "GK33",
+      "target": "GK1"
+    },
+    {
+      "source": "GK12",
+      "target": "GK42"
+    },
+    {
+      "source": "GK12",
+      "target": "GK43"
+    }
+  ]
+}
