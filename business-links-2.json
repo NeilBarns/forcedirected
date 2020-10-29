@@ -48,6 +48,10 @@
     {
       "id": "GKFourtytwo",
       "group": 12
+    },
+    {
+      "id": "GKFourtythree",
+      "group": 13
     }
   ],
   "links": [
@@ -97,7 +101,7 @@
     },
     {
       "source": "GKTwelve",
-      "target": "GK43"
+      "target": "GKFourtythree"
     }
   ]
 }
