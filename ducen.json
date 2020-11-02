@@ -209,11 +209,11 @@
       "group": 6
     },
     {
-      "id": "Marythu Sridnir Thota",
+      "id": "Maruthi Sridnir Thota",
       "group": 3
     },
     {
-      "id": "Samir Benkee",
+      "id": "Samir Benke",
       "group": 3
     },
     {
@@ -817,6 +817,176 @@
     {
       "source": "Parthasarathy Narayanan",
       "target": "Vijay Pavani",
+      "relations": "manages"
+    },
+    {
+      "source": "Vish.Ramesh",
+      "target": "Don Bristow",
+      "relations": "manages"
+    },
+    {
+      "source": "Don Bristow",
+      "target": "Venkatesan Ramamoorthy",
+      "relations": "manages"
+    },
+    {
+      "source": "Don Bristow",
+      "target": "Allan De Paul",
+      "relations": "manages"
+    },
+    {
+      "source": "Don Bristow",
+      "target": "Christy Trang",
+      "relations": "manages"
+    },
+    {
+      "source": "Don Bristow",
+      "target": "Nalangkilli Ramaiyan",
+      "relations": "manages"
+    },
+    {
+      "source": "Don Bristow",
+      "target": "Joseph Warde",
+      "relations": "manages"
+    },
+    {
+      "source": "Don Bristow",
+      "target": "Saravanan Nallamuthu",
+      "relations": "manages"
+    },
+    {
+      "source": "Don Bristow",
+      "target": "Anish Francis",
+      "relations": "manages"
+    },
+    {
+      "source": "Don Bristow",
+      "target": "Mohammed Sheriff",
+      "relations": "manages"
+    },
+    {
+      "source": "Venkatesan Ramamoorthy",
+      "target": "Edmer Lopez",
+      "relations": "manages"
+    },
+    {
+      "source": "Allan De Paul",
+      "target": "Deepak Saraswat",
+      "relations": "manages"
+    },
+    {
+      "source": "Nalangkilli Ramaiyan",
+      "target": "Brijpal Talwar",
+      "relations": "manages"
+    },
+    {
+      "source": "Nalangkilli Ramaiyan",
+      "target": "Saravanan Soundarrajan",
+      "relations": "manages"
+    },
+    {
+      "source": "Joseph Warde",
+      "target": "Alex Butenko",
+      "relations": "manages"
+    },
+    {
+      "source": "Saravanan Nallamuthu",
+      "target": "Kandasamy Maruthapillai",
+      "relations": "manages"
+    },
+    {
+      "source": "Saravanan Nallamuthu",
+      "target": "Sriram Sivasubramanian",
+      "relations": "manages"
+    },
+    {
+      "source": "Saravanan Nallamuthu",
+      "target": "Rashmi Gunasekaran",
+      "relations": "manages"
+    },
+    {
+      "source": "Saravanan Nallamuthu",
+      "target": "Syed Hussaini",
+      "relations": "manages"
+    },
+    {
+      "source": "Saravanan Nallamuthu",
+      "target": "Tejinder Singh",
+      "relations": "manages"
+    },
+    {
+      "source": "Saravanan Nallamuthu",
+      "target": "Nitin Mistry",
+      "relations": "manages"
+    },
+    {
+      "source": "Anish Francis",
+      "target": "Naveen Kodagihally Virupaksha",
+      "relations": "manages"
+    },
+    {
+      "source": "Naveen Kodagihally Virupaksha",
+      "target": "Sithara Shetty",
+      "relations": "manages"
+    },
+    {
+      "source": "Anish Francis",
+      "target": "Amol Mozarker",
+      "relations": "manages"
+    },
+    {
+      "source": "Amol Mozarker",
+      "target": "Maruthi Sridnir Thota",
+      "relations": "manages"
+    },
+    {
+      "source": "Amol Mozarker",
+      "target": "Samir Benke",
+      "relations": "manages"
+    },
+    {
+      "source": "Anish Francis",
+      "target": "Andreas Kyprianou",
+      "relations": "manages"
+    },
+    {
+      "source": "Anish Francis",
+      "target": "Ky Thi Diem Kieu",
+      "relations": "manages"
+    },
+    {
+      "source": "Anish Francis",
+      "target": "Amer Radwan",
+      "relations": "manages"
+    },
+    {
+      "source": "Mohammed Sheriff",
+      "target": "Saravanan Soundararajan",
+      "relations": "manages"
+    },
+    {
+      "source": "Mohammed Sheriff",
+      "target": "Srinivasan Selvaraj",
+      "relations": "manages"
+    },
+    {
+      "source": "Mohammed Sheriff",
+      "target": "Kavya Mudakanagoudar",
+      "relations": "manages"
+    },
+    {
+      "source": "Mohammed Sheriff",
+      "target": "Anitha Krishnan",
+      "relations": "manages"
+    },
+    {
+      "source": "Mohammed Sheriff",
+      "target": "Vijay Mhaskar",
+      "relations": "manages"
+    },
+    {
+      "source": "Mohammed Sheriff",
+      "target": "Avdhesh Arora",
       "relations": "manages"
     }
   ]
