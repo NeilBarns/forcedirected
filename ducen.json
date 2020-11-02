@@ -657,167 +657,167 @@
     {
       "source": "Vish.Ramesh",
       "target": "Vijay Subramanian",
-      "relations": "reports to"
+      "relations": "manages"
     },
     {
       "source": "Vish.Ramesh",
       "target": "Keshav Bangalore",
-      "relations": "reports to"
+      "relations": "manages"
     },
     {
       "source": "Vish.Ramesh",
       "target": "Don Bristow",
-      "relations": "reports to"
+      "relations": "manages"
     },
     {
       "source": "Vish.Ramesh",
       "target": "Kumar Madhavan",
-      "relations": "reports to"
+      "relations": "manages"
     },
     {
       "source": "Vish.Ramesh",
       "target": "Sumitha Ramesh",
-      "relations": "reports to"
+      "relations": "manages"
     },
     {
       "source": "Vish.Ramesh",
       "target": "Alok Shekhar",
-      "relations": "reports to"
+      "relations": "manages"
     },
     {
       "source": "Vish.Ramesh",
       "target": "Sriram Venkataraman",
-      "relations": "reports to"
+      "relations": "manages"
     },
     {
       "source": "Alok Shekhar",
       "target": "Rosemarie Mercado",
-      "relations": "reports to"
+      "relations": "manages"
     },
     {
       "source": "Sriram Venkataraman",
       "target": "Paramasivam Velayutham",
-      "relations": "reports to"
+      "relations": "manages"
     },
     {
       "source": "Paramasivam Velayutham",
       "target": "Krishna Murthy V G",
-      "relations": "reports to"
+      "relations": "manages"
     },
     {
       "source": "Vish.Ramesh",
       "target": "Sumitha Ramesh",
-      "relations": "reports to"
+      "relations": "manages"
     },
     {
       "source": "Keshav Bangalore",
       "target": "Salma Aziz",
-      "relations": "reports to"
+      "relations": "manages"
     },
     {
       "source": "Keshav Bangalore",
       "target": "Girija Gyan",
-      "relations": "reports to"
+      "relations": "manages"
     },
     {
       "source": "Keshav Bangalore",
       "target": "Christine Durr",
-      "relations": "reports to"
+      "relations": "manages"
     },
     {
       "source": "Vijay Subramanian",
       "target": "Prakash Arunachalam",
-      "relations": "reports to"
+      "relations": "manages"
     },
     {
       "source": "Vijay Subramanian",
       "target": "Leonard Easiyah",
-      "relations": "reports to"
+      "relations": "manages"
     },
     {
       "source": "Vijay Subramanian",
       "target": "Venkatesan Ramamoorthy",
-      "relations": "reports to"
+      "relations": "manages"
     },
     {
       "source": "Vijay Subramanian",
       "target": "Karnica Paul",
-      "relations": "reports to"
+      "relations": "manages"
     },
     {
       "source": "Vijay Subramanian",
       "target": "Parthasarathy Narayanan",
-      "relations": "reports to"
+      "relations": "manages"
     },
     {
       "source": "Vijay Subramanian",
       "target": "Anupama Krishnan",
-      "relations": "reports to"
+      "relations": "manages"
     },
     {
       "source": "Vijay Subramanian",
       "target": "Bernadette Meliton",
-      "relations": "reports to"
+      "relations": "manages"
     },
     {
       "source": "Parthasarathy Narayanan",
       "target": "Elanchezhiyan K G",
-      "relations": "reports to"
+      "relations": "manages"
     },
     {
       "source": "Parthasarathy Narayanan",
       "target": "Ginitta Rose Gracelin T",
-      "relations": "reports to"
+      "relations": "manages"
     },
     {
       "source": "Parthasarathy Narayanan",
       "target": "Vijay Pavani",
-      "relations": "reports to"
+      "relations": "manages"
     },
     {
       "source": "Venkatesan Ramamoorthy",
       "target": "Kumar Madhavan",
-      "relations": "reports to"
+      "relations": "manages"
     },
     {
       "source": "Venkatesan Ramamoorthy",
       "target": "John Warren Enrique",
-      "relations": "reports to"
+      "relations": "manages"
     },
     {
       "source": "Kumar Madhavan",
       "target": "Ganesh Subramanian",
-      "relations": "reports to"
+      "relations": "manages"
     },
     {
       "source": "Venkatesan Ramamoorthy",
       "target": "Dhameem Ansari",
-      "relations": "reports to"
+      "relations": "manages"
     },
     {
       "source": "Venkatesan Ramamoorthy",
       "target": "Chandrasekaran Raman",
-      "relations": "reports to"
+      "relations": "manages"
     },
     {
       "source": "Ganesh Subramanian",
       "target": "Natraj Dhakshina Murthy",
-      "relations": "reports to"
+      "relations": "manages"
     },
     {
       "source": "Parthasarathy Narayanan",
       "target": "Elanchezhiyan K G",
-      "relations": "reports to"
+      "relations": "manages"
     },
     {
       "source": "Parthasarathy Narayanan",
       "target": "Ginitta Rose Gracelin T",
-      "relations": "reports to"
+      "relations": "manages"
     },
     {
       "source": "Parthasarathy Narayanan",
       "target": "Vijay Pavani",
-      "relations": "reports to"
+      "relations": "manages"
     }
   ]
 }
