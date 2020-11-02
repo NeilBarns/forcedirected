@@ -1,7 +1,7 @@
 {
   "nodes": [
     {
-      "name": "Vish Ramesh",
+      "name": "Vish.Ramesh",
       "no_of_dev_projects": 0
     },
     {
@@ -655,37 +655,37 @@
   ],
   "links": [
     {
-      "source": "Vish Ramesh",
+      "source": "Vish.Ramesh",
       "target": "Vijay Subramanian",
       "relations": "reports to"
     },
     {
-      "source": "Vish Ramesh",
+      "source": "Vish.Ramesh",
       "target": "Keshav Bangalore",
       "relations": "reports to"
     },
     {
-      "source": "Vish Ramesh",
+      "source": "Vish.Ramesh",
       "target": "Don Bristow",
       "relations": "reports to"
     },
     {
-      "source": "Vish Ramesh",
+      "source": "Vish.Ramesh",
       "target": "Kumar Madhavan",
       "relations": "reports to"
     },
     {
-      "source": "Vish Ramesh",
+      "source": "Vish.Ramesh",
       "target": "Sumitha Ramesh",
       "relations": "reports to"
     },
     {
-      "source": "Vish Ramesh",
+      "source": "Vish.Ramesh",
       "target": "Alok Shekhar",
       "relations": "reports to"
     },
     {
-      "source": "Vish Ramesh",
+      "source": "Vish.Ramesh",
       "target": "Sriram Venkataraman",
       "relations": "reports to"
     },
@@ -705,7 +705,7 @@
       "relations": "reports to"
     },
     {
-      "source": "Vish Ramesh",
+      "source": "Vish.Ramesh",
       "target": "Sumitha Ramesh",
       "relations": "reports to"
     },
