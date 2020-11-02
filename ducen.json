@@ -581,7 +581,7 @@
       "group": 1
     },
     {
-      "id": "Nemuel Semapayan",
+      "id": "Nemuel Sampayan",
       "group": 1
     },
     {
@@ -1371,6 +1371,181 @@
 	{
       "source": "Soundariya Sriram",
       "target": "Ranjani Rajendran",
+      "relations": "manages"
+    },
+	{
+      "source": "Alok Shekhar",
+      "target": "Maricar Alegre",
+      "relations": "manages"
+    },
+	{
+      "source": "Alok Shekhar",
+      "target": "Michael Sanchez",
+      "relations": "manages"
+    },
+	{
+      "source": "Alok Shekhar",
+      "target": "Tristan Santiago",
+      "relations": "manages"
+    },
+	{
+      "source": "Alok Shekhar",
+      "target": "Angelyn Reyes",
+      "relations": "manages"
+    },
+	{
+      "source": "Alok Shekhar",
+      "target": "Jan Patrick Solon",
+      "relations": "manages"
+    },
+	{
+      "source": "Alok Shekhar",
+      "target": "Raghunandan Rajagopal",
+      "relations": "manages"
+    },
+	{
+      "source": "Alok Shekhar",
+      "target": "Maricar Alegre",
+      "relations": "manages"
+    },
+	{
+      "source": "Alok Shekhar",
+      "target": "Jose Fineza IV",
+      "relations": "manages"
+    },
+	{
+      "source": "Alok Shekhar",
+      "target": "Neil Barnedo",
+      "relations": "manages"
+    },
+	{
+      "source": "Alok Shekhar",
+      "target": "Franco Sia",
+      "relations": "manages"
+    },
+	{
+      "source": "Alok Shekhar",
+      "target": "Fahd Basman",
+      "relations": "manages"
+    },
+	{
+      "source": "Jan Patrick Solon",
+      "target": "Lian Matthew Umali",
+      "relations": "manages"
+    },
+	{
+      "source": "Jan Patrick Solon",
+      "target": "Jhosette Paez",
+      "relations": "manages"
+    },
+	{
+      "source": "Jan Patrick Solon",
+      "target": "Joshua Aldwin Samonte",
+      "relations": "manages"
+    },
+	{
+      "source": "Jan Patrick Solon",
+      "target": "Renn Dotollo",
+      "relations": "manages"
+    },
+	{
+      "source": "Jan Patrick Solon",
+      "target": "James Santillana",
+      "relations": "manages"
+    },
+	{
+      "source": "Jan Patrick Solon",
+      "target": "Nemuel Sampayan",
+      "relations": "manages"
+    },
+	{
+      "source": "Jan Patrick Solon",
+      "target": "Kristine De Leon",
+      "relations": "manages"
+    },
+	{
+      "source": "Jan Patrick Solon",
+      "target": "Jeralyn Capiral",
+      "relations": "manages"
+    },
+	{
+      "source": "Jan Patrick Solon",
+      "target": "Jahn Geronimo",
+      "relations": "manages"
+    },
+	{
+      "source": "Raghunandan Rajagopal",
+      "target": "Anna Sarmiento",
+      "relations": "manages"
+    },
+	{
+      "source": "Raghunandan Rajagopal",
+      "target": "Joseph Frias",
+      "relations": "manages"
+    },
+	{
+      "source": "Raghunandan Rajagopal",
+      "target": "Fiona Villamor",
+      "relations": "manages"
+    },
+	{
+      "source": "Raghunandan Rajagopal",
+      "target": "Marvin Bersamina",
+      "relations": "manages"
+    },
+	{
+      "source": "Jose Fineza IV",
+      "target": "Archelle Pagapulan",
+      "relations": "manages"
+    },
+	{
+      "source": "Jose Fineza IV",
+      "target": "Raven Espolon",
+      "relations": "manages"
+    },
+	{
+      "source": "Jose Fineza IV",
+      "target": "Jefferson Bautista",
+      "relations": "manages"
+    },
+	{
+      "source": "Jose Fineza IV",
+      "target": "Ruby Ann Diza",
+      "relations": "manages"
+    },
+	{
+      "source": "Neil Barnedo",
+      "target": "Venedick Sapongay",
+      "relations": "manages"
+    },
+	{
+      "source": "Neil Barnedo",
+      "target": "John Raymond Maco",
+      "relations": "manages"
+    },
+	{
+      "source": "Fahd Basman",
+      "target": "Vismark Cupla",
+      "relations": "manages"
+    },
+	{
+      "source": "Fahd Basman",
+      "target": "Lorellai Go",
+      "relations": "manages"
+    },
+	{
+      "source": "Fahd Basman",
+      "target": "Jonil Bantilan",
+      "relations": "manages"
+    },
+	{
+      "source": "Fahd Basman",
+      "target": "Kelly Ingua",
+      "relations": "manages"
+    },
+	{
+      "source": "Fahd Basman",
+      "target": "John Pradel",
       "relations": "manages"
     }
   ]
