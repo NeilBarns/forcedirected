@@ -1,7 +1,7 @@
 {
   "nodes": [
     {
-      "id": "Vish.Ramesh",
+      "id": "Vish Ramesh",
       "group": 0
     },
     {
@@ -655,37 +655,37 @@
   ],
   "links": [
     {
-      "source": "Vish.Ramesh",
+      "source": "Vish Ramesh",
       "target": "Vijay Subramanian",
       "relations": "reports to"
     },
     {
-      "source": "Vish.Ramesh",
+      "source": "Vish Ramesh",
       "target": "Keshav Bangalore",
       "relations": "reports to"
     },
     {
-      "source": "Vish.Ramesh",
+      "source": "Vish Ramesh",
       "target": "Don Bristow",
       "relations": "reports to"
     },
     {
-      "source": "Vish.Ramesh",
+      "source": "Vish Ramesh",
       "target": "Kumar Madhavan",
       "relations": "reports to"
     },
     {
-      "source": "Vish.Ramesh",
+      "source": "Vish Ramesh",
       "target": "Sumitha Ramesh",
       "relations": "reports to"
     },
     {
-      "source": "Vish.Ramesh",
+      "source": "Vish Ramesh",
       "target": "Alok Shekhar",
       "relations": "reports to"
     },
     {
-      "source": "Vish.Ramesh",
+      "source": "Vish Ramesh",
       "target": "Sriram Venkataraman",
       "relations": "reports to"
     },
@@ -701,11 +701,11 @@
     },
     {
       "source": "Paramasivam Velayutham",
-      "target": "Keishna Murthy V G",
+      "target": "Krishna Murthy V G",
       "relations": "reports to"
     },
     {
-      "source": "Vish.Ramesh",
+      "source": "Vish Ramesh",
       "target": "Sumitha Ramesh",
       "relations": "reports to"
     },
