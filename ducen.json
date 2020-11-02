@@ -5,6 +5,18 @@
       "group": 0
     },
     {
+      "id": "Azhagu Lakshman",
+      "group": 1
+    },
+    {
+      "id": "Prasanth Bharadhwaaj",
+      "group": 1
+    },
+    {
+      "id": "Monika Raj",
+      "group": 1
+    },
+    {
       "id": "Vijay Subramanian",
       "group": 0
     },
@@ -35,6 +47,10 @@
     {
       "id": "Christine Durr",
       "group": 3
+    },
+    {
+      "id": "Kavvin Sundaramurthi",
+      "group": 1
     },
     {
       "id": "Girija Gyan",
@@ -257,7 +273,7 @@
       "group": 7
     },
     {
-      "id": "Ramachandramoorthu Rethinas...",
+      "id": "Ramachandramoorthi Rethinas...",
       "group": 0
     },
     {
@@ -273,7 +289,7 @@
       "group": 2
     },
     {
-      "id": "Asha Tobias",
+      "id": "Asha Thobias",
       "group": 2
     },
     {
@@ -313,7 +329,7 @@
       "group": 1
     },
     {
-      "id": "Karthikeyan Blashanmugam",
+      "id": "Karthikeyan Balashanmugam",
       "group": 1
     },
     {
@@ -325,7 +341,7 @@
       "group": 3
     },
     {
-      "id": "Keerthama Pannirselvam",
+      "id": "Keerthana Pannirselvam",
       "group": 1
     },
     {
@@ -337,7 +353,7 @@
       "group": 1
     },
     {
-      "id": "Srinath Venkatramanan",
+      "id": "Srinath Venkataramanan",
       "group": 2
     },
     {
@@ -353,7 +369,7 @@
       "group": 3
     },
     {
-      "id": "Kishire Kumar Krishna Kumar",
+      "id": "Kishore Kumar Krishna Kumar",
       "group": 3
     },
     {
@@ -409,7 +425,7 @@
       "group": 3
     },
     {
-      "id": "Jayapriya Kathurvelu",
+      "id": "Jayapriya Kathirvelu",
       "group": 3
     },
     {
@@ -457,11 +473,11 @@
       "group": 2
     },
     {
-      "id": "Sundar Kanna",
+      "id": "Sundar Kannan",
       "group": 2
     },
     {
-      "id": "Dhamush Venkataraman",
+      "id": "Dhanush Venkataraman",
       "group": 2
     },
     {
@@ -469,7 +485,7 @@
       "group": 0
     },
     {
-      "id": "Kandevelu Ramamoorthy",
+      "id": "Kandavelu Ramamoorthy",
       "group": 7
     },
     {
@@ -509,7 +525,7 @@
       "group": 2
     },
     {
-      "id": "Amirthdanathani Karthukeyan",
+      "id": "Amirthdanathani Karthikeyan",
       "group": 2
     },
     {
@@ -991,6 +1007,366 @@
     {
       "source": "Mohammed Sheriff",
       "target": "Avdhesh Arora",
+      "relations": "manages"
+    },
+    {
+      "source": "Don Bristow",
+      "target": "Ramachandramoorthi Rethinas...",
+      "relations": "manages"
+    },
+    {
+      "source": "Vijay Subramanian",
+      "target": "Mowle Asirvatham",
+      "relations": "manages"
+    },
+    {
+      "source": "Mowle Asirvatham",
+      "target": "Kuppan Murugappan",
+      "relations": "manages"
+    },
+    {
+      "source": "Mowle Asirvatham",
+      "target": "Kumaresan Chakkaravarthu",
+      "relations": "manages"
+    },
+    {
+      "source": "Mowle Asirvatham",
+      "target": "Asha Thobias",
+      "relations": "manages"
+    },
+    {
+      "source": "Ramachandramoorthi Rethinas...",
+      "target": "Vijayalakshmi Ganapathy",
+      "relations": "manages"
+    },
+    {
+      "source": "Ramachandramoorthi Rethinas...",
+      "target": "Uppili Srinivasan K S",
+      "relations": "manages"
+    },
+    {
+      "source": "Uppili Srinivasan K S",
+      "target": "Davakumar Anbazhagan",
+      "relations": "manages"
+    },
+    {
+      "source": "Davakumar Anbazhagan",
+      "target": "Thirumurugan Annadurai",
+      "relations": "manages"
+    },
+    {
+      "source": "Davakumar Anbazhagan",
+      "target": "Tamizh Poonkuzhali",
+      "relations": "manages"
+    },
+    {
+      "source": "Davakumar Anbazhagan",
+      "target": "Lakshmanan Manian",
+      "relations": "manages"
+    },
+    {
+      "source": "Davakumar Anbazhagan",
+      "target": "Lakshmi Raman",
+      "relations": "manages"
+    },
+    {
+      "source": "Davakumar Anbazhagan",
+      "target": "Aashish Patel Ramani",
+      "relations": "manages"
+    },
+    {
+      "source": "Davakumar Anbazhagan",
+      "target": "Lalitha Lakshmi S",
+      "relations": "manages"
+    },
+    {
+      "source": "Davakumar Anbazhagan",
+      "target": "Vijay Bhaskar K R",
+      "relations": "manages"
+    },
+    {
+      "source": "Davakumar Anbazhagan",
+      "target": "Monica Rajaram",
+      "relations": "manages"
+    },
+    {
+      "source": "Davakumar Anbazhagan",
+      "target": "Nixon Montfort Ravi",
+      "relations": "manages"
+    },
+    {
+      "source": "Nixon Montfort Ravi",
+      "target": "Meera Devanathan",
+      "relations": "manages"
+    },
+    {
+      "source": "Nixon Montfort Ravi",
+      "target": "Mohana Priya Lingusamy",
+      "relations": "manages"
+    },
+    {
+      "source": "Tamizh Poonkuzhali",
+      "target": "Karthikeyan Balashanmugam",
+      "relations": "manages"
+    },
+    {
+      "source": "Tamizh Poonkuzhali",
+      "target": "Yogeshwaran Selvaraj",
+      "relations": "manages"
+	},
+    {
+      "source": "Lakshmanan Manian",
+      "target": "Keerthana Pannirselvam",
+      "relations": "manages"
+	},
+    {
+      "source": "Lakshmanan Manian",
+      "target": "Srilatha C H",
+      "relations": "manages"
+	},
+    {
+      "source": "Lakshmanan Manian",
+      "target": "Deeparani S R",
+      "relations": "manages"
+	},
+    {
+      "source": "Lakshmanan Manian",
+      "target": "Srinath Venkataramanan",
+      "relations": "manages"
+	},
+    {
+      "source": "Lakshmanan Manian",
+      "target": "Clare Jade J",
+      "relations": "manages"
+	},
+    {
+      "source": "Lakshmanan Manian",
+      "target": "Vinay Kumar Cherukuri",
+      "relations": "manages"
+	},
+    {
+      "source": "Lakshmi Raman",
+      "target": "Kishore Kumar Krishna Kumar",
+      "relations": "manages"
+	},
+    {
+      "source": "Lakshmi Raman",
+      "target": "Sainadh Antarvedi",
+      "relations": "manages"
+	},
+    {
+      "source": "Lalitha Lakshmi S",
+      "target": "Vigneshwaran Baskaran",
+      "relations": "manages"
+	},
+    {
+      "source": "Vigneshwaran Baskaran",
+      "target": "Kiruba Selvaraj",
+      "relations": "manages"
+	},
+    {
+      "source": "Vigneshwaran Baskaran",
+      "target": "Deepika Kabilan",
+      "relations": "manages"
+	},
+    {
+      "source": "Uppili Srinivasan K S",
+      "target": "Prasanna Soundarajan",
+      "relations": "manages"
+    },
+    {
+      "source": "Uppili Srinivasan K S",
+      "target": "Pavan Vunnam",
+      "relations": "manages"
+    },
+    {
+      "source": "Uppili Srinivasan K S",
+      "target": "Aravindh Raju",
+      "relations": "manages"
+    },
+    {
+      "source": "Uppili Srinivasan K S",
+      "target": "Selvam Pandian",
+      "relations": "manages"
+    },
+    {
+      "source": "Prasanna Soundarajan",
+      "target": "Ganesh Srinivasan",
+      "relations": "manages"
+    },
+    {
+      "source": "Prasanna Soundarajan",
+      "target": "Mohammed Zaiyan",
+      "relations": "manages"
+    },
+    {
+      "source": "Pavan Vunnam",
+      "target": "Roobadevi Rajendran",
+      "relations": "manages"
+    },
+    {
+      "source": "Pavan Vunnam",
+      "target": "Jayapriya Kathirvelu",
+      "relations": "manages"
+    },
+    {
+      "source": "Pavan Vunnam",
+      "target": "Sadana Kavitha",
+      "relations": "manages"
+    },
+    {
+      "source": "Pavan Vunnam",
+      "target": "OM Malini Subramani",
+      "relations": "manages"
+    },
+    {
+      "source": "Pavan Vunnam",
+      "target": "Harshavardhanan Jayakrishnan",
+      "relations": "manages"
+    },
+    {
+      "source": "Aravindh Raju",
+      "target": "Arthi Balasubramanian",
+      "relations": "manages"
+    },
+    {
+      "source": "Aravindh Raju",
+      "target": "Aswin Subramanian",
+      "relations": "manages"
+    },
+    {
+      "source": "Aravindh Raju",
+      "target": "Kaviya Ravi",
+      "relations": "manages"
+    },
+    {
+      "source": "Selvam Pandian",
+      "target": "Aravindh Surya",
+      "relations": "manages"
+    },
+    {
+      "source": "Selvam Pandian",
+      "target": "Thennarasu Moorthi",
+      "relations": "manages"
+    },
+    {
+      "source": "Selvam Pandian",
+      "target": "Stephen Raj Thetharavuraj",
+      "relations": "manages"
+    },
+    {
+      "source": "Selvam Pandian",
+      "target": "Sundar Kannan",
+      "relations": "manages"
+    },
+    {
+      "source": "Selvam Pandian",
+      "target": "Dhanush Venkataraman",
+      "relations": "manages"
+    },
+	{
+      "source": "Vish.Ramesh",
+      "target": "Kumar Madhavan",
+      "relations": "manages"
+    },
+	{
+      "source": "Kumar Madhavan",
+      "target": "Kandavelu Ramamoorthy",
+      "relations": "manages"
+    },
+	{
+      "source": "Kumar Madhavan",
+      "target": "Ananthasubramanian Hariharan",
+      "relations": "manages"
+    },
+	{
+      "source": "Kumar Madhavan",
+      "target": "Soundariya Sriram",
+      "relations": "manages"
+    },
+	{
+      "source": "Kandavelu Ramamoorthy",
+      "target": "Kavya Rajendran Rajeswari",
+      "relations": "manages"
+    },
+	{
+      "source": "Kandavelu Ramamoorthy",
+      "target": "Kaaviyasri Muthukrishnan",
+      "relations": "manages"
+    },
+	{
+      "source": "Kandavelu Ramamoorthy",
+      "target": "Abirammy Karthika",
+      "relations": "manages"
+    },
+	{
+      "source": "Kandavelu Ramamoorthy",
+      "target": "Arindam Ghosh",
+      "relations": "manages"
+    },
+	{
+      "source": "Ananthasubramanian Hariharan",
+      "target": "Prasanth Bharadhwaaj",
+      "relations": "manages"
+    },
+	{
+      "source": "Ananthasubramanian Hariharan",
+      "target": "Monika Raj",
+      "relations": "manages"
+    },
+	{
+      "source": "Ananthasubramanian Hariharan",
+      "target": "Kavvin Sundaramurthi",
+      "relations": "manages"
+    },
+	{
+      "source": "Ananthasubramanian Hariharan",
+      "target": "Azhagu Lakshman",
+      "relations": "manages"
+    },
+	{
+      "source": "Ananthasubramanian Hariharan",
+      "target": "Amirthdanathani Karthikeyan",
+      "relations": "manages"
+    },
+	{
+      "source": "Ananthasubramanian Hariharan",
+      "target": "Kavitha Selvamani",
+      "relations": "manages"
+    },
+	{
+      "source": "Ananthasubramanian Hariharan",
+      "target": "Binu Appunni",
+      "relations": "manages"
+    },
+	{
+      "source": "Ananthasubramanian Hariharan",
+      "target": "Princy Catherine",
+      "relations": "manages"
+    },
+	{
+      "source": "Ananthasubramanian Hariharan",
+      "target": "Ranjani Rajendran",
+      "relations": "manages"
+    },
+	{
+      "source": "Soundariya Sriram",
+      "target": "Ramprasad Viswanathan",
+      "relations": "manages"
+    },
+	{
+      "source": "Soundariya Sriram",
+      "target": "Binu Appunni",
+      "relations": "manages"
+    },
+	{
+      "source": "Soundariya Sriram",
+      "target": "Princy Catherine",
+      "relations": "manages"
+    },
+	{
+      "source": "Soundariya Sriram",
+      "target": "Ranjani Rajendran",
       "relations": "manages"
     }
   ]
