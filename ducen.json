@@ -938,9 +938,9 @@
       "relations": "manages"
     },
     {
-      "source": "Venkatesan Ramamoorthy",
-      "target": "Kumar Madhavan",
-      "relations": "manages"
+      "source": "Kumar Madhavan",
+      "target": "Venkatesan Ramamoorthy",
+      "relations": "reports to"
     },
     {
       "source": "Venkatesan Ramamoorthy",
@@ -1033,9 +1033,9 @@
       "relations": "reports to"
     },
     {
-      "source": "Allan De Paul",
-      "target": "Deepak Saraswat",
-      "relations": "manages"
+      "source": "Deepak Saraswat",
+      "target": "Allan De Paul",
+      "relations": "reports to"
     },
     {
       "source": "Nalangkilli Ramaiyan",
