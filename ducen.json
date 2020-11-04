@@ -1218,19 +1218,19 @@
       "relations": "assists"
     },
     {
-      "source": "Lalitha Lakshmi S",
-      "target": "Davakumar Anbazhagan",
-      "relations": "assists"
+      "source": "Davakumar Anbazhagan",
+      "target": "Lalitha Lakshmi S",
+      "relations": "manages"
     },
     {
-      "source": "Vijay Bhaskar K R",
-      "target": "Davakumar Anbazhagan",
-      "relations": "assists"
+      "source": "Davakumar Anbazhagan",
+      "target": "Vijay Bhaskar K R",
+      "relations": "manages"
     },
     {
-      "source": "Monica Rajaram",
-      "target": "Davakumar Anbazhagan",
-      "relations": "assists"
+      "source": "Davakumar Anbazhagan",
+      "target": "Monica Rajaram",
+      "relations": "manages"
     },
     {
       "source": "Davakumar Anbazhagan",
@@ -1240,22 +1240,22 @@
     {
       "source": "Meera Devanathan",
       "target": "Nixon Montfort Ravi",
-      "relations": "reports to"
+      "relations": "assists"
     },
     {
       "source": "Mohana Priya Lingusamy",
       "target": "Nixon Montfort Ravi",
-      "relations": "reports to"
+      "relations": "assists"
     },
     {
       "source": "Karthikeyan Balashanmugam",
       "target": "Tamizh Poonkuzhali",
-      "relations": "reports to"
+      "relations": "assists"
     },
     {
       "source": "Yogeshwaran Selvaraj",
       "target": "Tamizh Poonkuzhali",
-      "relations": "reports to"
+      "relations": "assists"
 	},
     {
       "source": "Lakshmanan Manian",
