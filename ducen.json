@@ -863,9 +863,9 @@
       "relations": "reports to"
     },
     {
-      "source": "Krishna Murthy V G",
-      "target": "Paramasivam Velayutham",
-      "relations": "reports to"
+      "source": "Paramasivam Velayutham",
+      "target": "Krishna Murthy V G",
+      "relations": "manages"
     },
     {
       "source": "Sumitha Ramesh",
@@ -948,9 +948,9 @@
       "relations": "manages"
     },
     {
-      "source": "Kumar Madhavan",
-      "target": "Ganesh Subramanian",
-      "relations": "manages"
+      "source": "Ganesh Subramanian",
+      "target": "Kumar Madhavan",
+      "relations": "reports to"
     },
     {
       "source": "Venkatesan Ramamoorthy",
