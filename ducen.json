@@ -818,14 +818,14 @@
   ],
   "links": [
     {
-      "source": "Vish.Ramesh",
-      "target": "Vijay Subramanian",
-      "relations": "manages"
+      "source": "Vijay Subramanian",
+      "target": "Vish.Ramesh",
+      "relations": "reports to"
     },
     {
-      "source": "Vish.Ramesh",
-      "target": "Keshav Bangalore",
-      "relations": "manages"
+      "source": "Keshav Bangalore",
+      "target": "Vish.Ramesh",
+      "relations": "reports to"
     },
     {
       "source": "Don Bristow",
@@ -833,94 +833,94 @@
       "relations": "reports to"
     },
     {
-      "source": "Vish.Ramesh",
-      "target": "Kumar Madhavan",
-      "relations": "manages"
+      "source": "Kumar Madhavan",
+      "target": "Vish.Ramesh",
+      "relations": "reports to"
     },
     {
-      "source": "Vish.Ramesh",
-      "target": "Sumitha Ramesh",
-      "relations": "manages"
-    },
-    {
-      "source": "Vish.Ramesh",
-      "target": "Alok Shekhar",
-      "relations": "manages"
-    },
-    {
-      "source": "Vish.Ramesh",
-      "target": "Sriram Venkataraman",
-      "relations": "manages"
+      "source": "Sumitha Ramesh",
+      "target": "Vish.Ramesh",
+      "relations": "reports to"
     },
     {
       "source": "Alok Shekhar",
-      "target": "Rosemarie Mercado",
-      "relations": "manages"
+      "target": "Vish.Ramesh",
+      "relations": "reports to"
     },
     {
       "source": "Sriram Venkataraman",
-      "target": "Paramasivam Velayutham",
-      "relations": "manages"
+      "target": "Vish.Ramesh",
+      "relations": "reports to"
+    },
+    {
+      "source": "Rosemarie Mercado",
+      "target": "Alok Shekhar",
+      "relations": "reports to"
     },
     {
       "source": "Paramasivam Velayutham",
-      "target": "Krishna Murthy V G",
-      "relations": "manages"
+      "target": "Sriram Venkataraman",
+      "relations": "reports to"
     },
     {
-      "source": "Vish.Ramesh",
-      "target": "Sumitha Ramesh",
-      "relations": "manages"
+      "source": "Krishna Murthy V G",
+      "target": "Paramasivam Velayutham",
+      "relations": "reports to"
     },
     {
-      "source": "Keshav Bangalore",
-      "target": "Salma Aziz",
-      "relations": "manages"
+      "source": "Sumitha Ramesh",
+      "target": "Vish.Ramesh",
+      "relations": "reports to"
     },
     {
-      "source": "Keshav Bangalore",
-      "target": "Girija Gyan",
-      "relations": "manages"
+      "source": "Salma Aziz",
+      "target": "Keshav Bangalore",
+      "relations": "reports to"
     },
     {
-      "source": "Keshav Bangalore",
-      "target": "Christine Durr",
-      "relations": "manages"
+      "source": "Girija Gyan",
+      "target": "Keshav Bangalore",
+      "relations": "reports to"
     },
     {
-      "source": "Vijay Subramanian",
-      "target": "Prakash Arunachalam",
-      "relations": "manages"
+      "source": "Christine Durr",
+      "target": "Keshav Bangalore",
+      "relations": "reports to"
     },
     {
-      "source": "Vijay Subramanian",
-      "target": "Leonard Easiyah",
-      "relations": "manages"
+      "source": "Prakash Arunachalam",
+      "target": "Vijay Subramanian",
+      "relations": "reports to"
     },
     {
-      "source": "Vijay Subramanian",
-      "target": "Venkatesan Ramamoorthy",
-      "relations": "manages"
+      "source": "Leonard Easiyah",
+      "target": "Vijay Subramanian",
+      "relations": "reports to"
     },
     {
-      "source": "Vijay Subramanian",
-      "target": "Karnica Paul",
-      "relations": "manages"
+      "source": "Venkatesan Ramamoorthy",
+      "target": "Vijay Subramanian",
+      "relations": "reports to"
     },
     {
-      "source": "Vijay Subramanian",
-      "target": "Parthasarathy Narayanan",
-      "relations": "manages"
+      "source": "Karnica Paul",
+      "target": "Vijay Subramanian",
+      "relations": "reports to"
     },
     {
-      "source": "Vijay Subramanian",
-      "target": "Anupama Krishnan",
-      "relations": "manages"
+      "source": "Parthasarathy Narayanan",
+      "target": "Vijay Subramanian",
+      "relations": "reports to"
     },
     {
-      "source": "Vijay Subramanian",
-      "target": "Bernadette Meliton",
-      "relations": "manages"
+      "source": "Anupama Krishnan",
+      "target": "Vijay Subramanian",
+      "relations": "reports to"
+    },
+    {
+      "source": "Bernadette Meliton",
+      "target": "Vijay Subramanian",
+      "relations": "reports to"
     },
     {
       "source": "Parthasarathy Narayanan",
@@ -1028,9 +1028,9 @@
       "relations": "reports to"
     },
     {
-      "source": "Venkatesan Ramamoorthy",
-      "target": "Edmer Lopez",
-      "relations": "manages"
+      "source": "Edmer Lopez",
+      "target": "Venkatesan Ramamoorthy",
+      "relations": "reports to"
     },
     {
       "source": "Allan De Paul",
@@ -1083,9 +1083,9 @@
       "relations": "manages"
     },
     {
-      "source": "Anish Francis",
-      "target": "Naveen Kodagihally Virupaksha",
-      "relations": "manages"
+      "source": "Naveen Kodagihally Virupaksha",
+      "target": "Anish Francis",
+      "relations": "reports to"
     },
     {
       "source": "Naveen Kodagihally Virupaksha",
@@ -1093,9 +1093,9 @@
       "relations": "manages"
     },
     {
-      "source": "Anish Francis",
-      "target": "Amol Mozarker",
-      "relations": "manages"
+      "source": "Amol Mozarker",
+      "target": "Anish Francis",
+      "relations": "reports to"
     },
     {
       "source": "Amol Mozarker",
