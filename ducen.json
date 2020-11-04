@@ -1193,9 +1193,9 @@
       "relations": "reports to"
     },
     {
-      "source": "Thirumurugan Annadurai",
-      "target": "Davakumar Anbazhagan",
-      "relations": "assists"
+      "source": "Davakumar Anbazhagan",
+      "target": "Thirumurugan Annadurai",
+      "relations": "manages"
     },
     {
       "source": "Davakumar Anbazhagan",
@@ -1213,9 +1213,9 @@
       "relations": "manages"
     },
     {
-      "source": "Aashish Patel Ramani",
-      "target": "Davakumar Anbazhagan",
-      "relations": "assists"
+      "source": "Davakumar Anbazhagan",
+      "target": "Aashish Patel Ramani",
+      "relations": "manages"
     },
     {
       "source": "Davakumar Anbazhagan",
