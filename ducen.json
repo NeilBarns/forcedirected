@@ -1188,9 +1188,9 @@
       "relations": "manages"
     },
     {
-      "source": "Uppili Srinivasan K S",
-      "target": "Davakumar Anbazhagan",
-      "relations": "manages"
+      "source": "Davakumar Anbazhagan",
+      "target": "Uppili Srinivasan K S",
+      "relations": "reports to"
     },
     {
       "source": "Davakumar Anbazhagan",
@@ -1313,59 +1313,59 @@
       "relations": "manages"
 	},
     {
-      "source": "Uppili Srinivasan K S",
+      "source": "Prasanna Soundarajan",
+      "target": "Uppili Srinivasan K S",
+      "relations": "reports to"
+    },
+    {
+      "source": "Pavan Vunnam",
+      "target": "Uppili Srinivasan K S",
+      "relations": "reports to"
+    },
+    {
+      "source": "Aravindh Raju",
+      "target": "Uppili Srinivasan K S",
+      "relations": "reports to"
+    },
+    {
+      "source": "Selvam Pandian",
+      "target": "Uppili Srinivasan K S",
+      "relations": "reports to"
+    },
+    {
+      "source": "Ganesh Srinivasan",
       "target": "Prasanna Soundarajan",
-      "relations": "manages"
+      "relations": "reports to"
     },
     {
-      "source": "Uppili Srinivasan K S",
+      "source": "Mohammed Zaiyan",
+      "target": "Prasanna Soundarajan",
+      "relations": "reports to"
+    },
+    {
+      "source": "Roobadevi Rajendran",
       "target": "Pavan Vunnam",
-      "relations": "manages"
+      "relations": "reports to"
     },
     {
-      "source": "Uppili Srinivasan K S",
-      "target": "Aravindh Raju",
-      "relations": "manages"
+      "source": "Jayapriya Kathirvelu",
+      "target": "Pavan Vunnam",
+      "relations": "reports to"
     },
     {
-      "source": "Uppili Srinivasan K S",
-      "target": "Selvam Pandian",
-      "relations": "manages"
+      "source": "Sadana Kavitha",
+      "target": "Pavan Vunnam",
+      "relations": "reports to"
     },
     {
-      "source": "Prasanna Soundarajan",
-      "target": "Ganesh Srinivasan",
-      "relations": "manages"
+      "source": "OM Malini Subramani",
+      "target": "Pavan Vunnam",
+      "relations": "reports to"
     },
     {
-      "source": "Prasanna Soundarajan",
-      "target": "Mohammed Zaiyan",
-      "relations": "manages"
-    },
-    {
-      "source": "Pavan Vunnam",
-      "target": "Roobadevi Rajendran",
-      "relations": "manages"
-    },
-    {
-      "source": "Pavan Vunnam",
-      "target": "Jayapriya Kathirvelu",
-      "relations": "manages"
-    },
-    {
-      "source": "Pavan Vunnam",
-      "target": "Sadana Kavitha",
-      "relations": "manages"
-    },
-    {
-      "source": "Pavan Vunnam",
-      "target": "OM Malini Subramani",
-      "relations": "manages"
-    },
-    {
-      "source": "Pavan Vunnam",
-      "target": "Harshavardhanan Jayakrishnan",
-      "relations": "manages"
+      "source": "Harshavardhanan Jayakrishnan",
+      "target": "Pavan Vunnam",
+      "relations": "reports to"
     },
     {
       "source": "Aravindh Raju",
