@@ -1078,9 +1078,9 @@
       "relations": "manages"
     },
     {
-      "source": "Saravanan Nallamuthu",
-      "target": "Nitin Mistry",
-      "relations": "manages"
+      "source": "Nitin Mistry",
+      "target": "Saravanan Nallamuthu",
+      "relations": "reports to"
     },
     {
       "source": "Naveen Kodagihally Virupaksha",
@@ -1158,9 +1158,9 @@
       "relations": "reports to"
     },
     {
-      "source": "Vijay Subramanian",
-      "target": "Mowle Asirvatham",
-      "relations": "manages"
+      "source": "Mowle Asirvatham",
+      "target": "Vijay Subramanian",
+      "relations": "reports to"
     },
     {
       "source": "Mowle Asirvatham",
@@ -1408,24 +1408,24 @@
       "relations": "manages"
     },
 	{
-      "source": "Vish.Ramesh",
+      "source": "Kumar Madhavan",
+      "target": "Vish.Ramesh",
+      "relations": "reports to"
+    },
+	{
+      "source": "Kandavelu Ramamoorthy",
       "target": "Kumar Madhavan",
-      "relations": "manages"
+      "relations": "reports to"
     },
 	{
-      "source": "Kumar Madhavan",
-      "target": "Kandavelu Ramamoorthy",
-      "relations": "manages"
+      "source": "Ananthasubramanian Hariharan",
+      "target": "Kumar Madhavan",
+      "relations": "reports to"
     },
 	{
-      "source": "Kumar Madhavan",
-      "target": "Ananthasubramanian Hariharan",
-      "relations": "manages"
-    },
-	{
-      "source": "Kumar Madhavan",
-      "target": "Soundariya Sriram",
-      "relations": "manages"
+      "source": "Soundariya Sriram",
+      "target": "Kumar Madhavan",
+      "relations": "reports to"
     },
 	{
       "source": "Kandavelu Ramamoorthy",
