@@ -1178,14 +1178,14 @@
       "relations": "manages"
     },
     {
-      "source": "Ramachandramoorthi Rethinas...",
-      "target": "Vijayalakshmi Ganapathy",
-      "relations": "manages"
+      "source": "Vijayalakshmi Ganapathy",
+      "target": "Ramachandramoorthi Rethinas...",
+      "relations": "reports to"
     },
     {
-      "source": "Ramachandramoorthi Rethinas...",
-      "target": "Uppili Srinivasan K S",
-      "relations": "manages"
+      "source": "Uppili Srinivasan K S",
+      "target": "Ramachandramoorthi Rethinas...",
+      "relations": "reports to"
     },
     {
       "source": "Davakumar Anbazhagan",
