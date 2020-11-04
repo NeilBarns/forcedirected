@@ -1288,14 +1288,14 @@
       "relations": "assists"
 	},
     {
-      "source": "Lakshmi Raman",
-      "target": "Kishore Kumar Krishna Kumar",
-      "relations": "manages"
+      "source": "Kishore Kumar Krishna Kumar",
+      "target": "Lakshmi Raman",
+      "relations": "assists"
 	},
     {
-      "source": "Lakshmi Raman",
-      "target": "Sainadh Antarvedi",
-      "relations": "manages"
+      "source": "Sainadh Antarvedi",
+      "target": "Lakshmi Raman",
+      "relations": "assists"
 	},
     {
       "source": "Vigneshwaran Baskaran",
