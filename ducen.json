@@ -828,9 +828,9 @@
       "relations": "manages"
     },
     {
-      "source": "Vish.Ramesh",
-      "target": "Don Bristow",
-      "relations": "manages"
+      "source": "Don Bristow",
+      "target": "Vish.Ramesh",
+      "relations": "reports to"
     },
     {
       "source": "Vish.Ramesh",
@@ -983,49 +983,49 @@
       "relations": "manages"
     },
     {
-      "source": "Vish.Ramesh",
+      "source": "Don Bristow",
+      "target": "Vish.Ramesh",
+      "relations": "reports to"
+    },
+    {
+      "source": "Venkatesan Ramamoorthy",
       "target": "Don Bristow",
-      "relations": "manages"
+      "relations": "reports to"
     },
     {
-      "source": "Don Bristow",
-      "target": "Venkatesan Ramamoorthy",
-      "relations": "manages"
+      "source": "Allan De Paul",
+      "target": "Don Bristow",
+      "relations": "reports to"
     },
     {
-      "source": "Don Bristow",
-      "target": "Allan De Paul",
-      "relations": "manages"
+      "source": "Christy Trang",
+      "target": "Don Bristow",
+      "relations": "reports to"
     },
     {
-      "source": "Don Bristow",
-      "target": "Christy Trang",
-      "relations": "manages"
+      "source": "Nalangkilli Ramaiyan",
+      "target": "Don Bristow",
+      "relations": "reports to"
     },
     {
-      "source": "Don Bristow",
-      "target": "Nalangkilli Ramaiyan",
-      "relations": "manages"
+      "source": "Joseph Warde",
+      "target": "Don Bristow",
+      "relations": "reports to"
     },
     {
-      "source": "Don Bristow",
-      "target": "Joseph Warde",
-      "relations": "manages"
+      "source": "Saravanan Nallamuthu",
+      "target": "Don Bristow",
+      "relations": "reports to"
     },
     {
-      "source": "Don Bristow",
-      "target": "Saravanan Nallamuthu",
-      "relations": "manages"
+      "source": "Anish Francis",
+      "target": "Don Bristow",
+      "relations": "reports to"
     },
     {
-      "source": "Don Bristow",
-      "target": "Anish Francis",
-      "relations": "manages"
-    },
-    {
-      "source": "Don Bristow",
-      "target": "Mohammed Sheriff",
-      "relations": "manages"
+      "source": "Mohammed Sheriff",
+      "target": "Don Bristow",
+      "relations": "reports to"
     },
     {
       "source": "Venkatesan Ramamoorthy",
@@ -1153,9 +1153,9 @@
       "relations": "manages"
     },
     {
-      "source": "Don Bristow",
-      "target": "Ramachandramoorthi Rethinas...",
-      "relations": "manages"
+      "source": "Ramachandramoorthi Rethinas...",
+      "target": "Don Bristow",
+      "relations": "reports to"
     },
     {
       "source": "Vijay Subramanian",
