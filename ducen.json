@@ -1258,34 +1258,34 @@
       "relations": "assists"
 	},
     {
-      "source": "Lakshmanan Manian",
-      "target": "Keerthana Pannirselvam",
-      "relations": "manages"
+      "source": "Keerthana Pannirselvam",
+      "target": "Lakshmanan Manian",
+      "relations": "assists"
 	},
     {
-      "source": "Lakshmanan Manian",
-      "target": "Srilatha C H",
-      "relations": "manages"
+      "source": "Srilatha C H",
+      "target": "Lakshmanan Manian",
+      "relations": "assists"
 	},
     {
-      "source": "Lakshmanan Manian",
-      "target": "Deeparani S R",
-      "relations": "manages"
+      "source": "Deeparani S R",
+      "target": "Lakshmanan Manian",
+      "relations": "assists"
 	},
     {
-      "source": "Lakshmanan Manian",
-      "target": "Srinath Venkataramanan",
-      "relations": "manages"
+      "source": "Srinath Venkataramanan",
+      "target": "Lakshmanan Manian",
+      "relations": "assists"
 	},
     {
-      "source": "Lakshmanan Manian",
-      "target": "Clare Jade J",
-      "relations": "manages"
+      "source": "Clare Jade J",
+      "target": "Lakshmanan Manian",
+      "relations": "assists"
 	},
     {
-      "source": "Lakshmanan Manian",
-      "target": "Vinay Kumar Cherukuri",
-      "relations": "manages"
+      "source": "Vinay Kumar Cherukuri",
+      "target": "Lakshmanan Manian",
+      "relations": "assists"
 	},
     {
       "source": "Lakshmi Raman",
