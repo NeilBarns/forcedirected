@@ -1303,14 +1303,14 @@
       "relations": "assists"
 	},
     {
-      "source": "Kiruba Selvaraj",
-      "target": "Vigneshwaran Baskaran",
-      "relations": "reports to"
+      "source": "Vigneshwaran Baskaran",
+      "target": "Kiruba Selvaraj",
+      "relations": "assists"
 	},
     {
-      "source": "Deepika Kabilan",
-      "target": "Vigneshwaran Baskaran",
-      "relations": "reports to"
+      "source": "Vigneshwaran Baskaran",
+      "target": "Deepika Kabilan",
+      "relations": "assists"
 	},
     {
       "source": "Prasanna Soundarajan",
